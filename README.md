@@ -1,1 +1,10 @@
-# computing-science
+# 嗨，我是簡聖祐
+我是中原大學的學生，目前正在學習計算機概論
+## 關於我
+- 系級:智運一甲
+- 正在學習:Python,Github
+- 感興趣的主題:教學,Coding
+- 這學期的目標:微積分修過
+
+# 我的作品
+[中原智運](https://icbd.cycu.edu.tw/)
